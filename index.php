@@ -124,7 +124,7 @@
 					</div>
 
 					<div class="license">
-						<h1>Game&nbsp;version:&nbsp;v0.2.3</h1>
+						<h1>Game&nbsp;:&nbsp;v&nbsp;af43_04_06</h1>
 						<p>&lt;html5,&nbsp;jq&gt;,</p>
 						<p>&lt;WebGl,&nbsp;Canvas,&nbsp;Css3&gt;,</p>
 						<p>&lt;none&gt;,</p>
