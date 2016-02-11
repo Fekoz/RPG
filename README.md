@@ -14,4 +14,8 @@ Unlog link:<a href="https://github.com/Fekoz/JRPG/blob/master/up/unlog.php#L25">
 <hr>
 <img src="http://oneloves.ru/Tests/tqtest/test/img_title.png" height="600">
 <h3>KEY:af43_04_06</h3>
+<div class="boxed-group dangerzone">
+    <h3>Delete account</h3>
+    <div class="boxed-group-inner">dasd</div>
+</div>
 #© 2015 Artem Fekoz
