@@ -13,5 +13,5 @@ Engine:<a href="https://github.com/Fekoz/JRPG/blob/master/game/game/file/js/en/e
 Session link:<a href="https://github.com/Fekoz/JRPG/blob/master/up/createsession.php#L33">F:up/createsession.php</a><br>
 Unlog link:<a href="https://github.com/Fekoz/JRPG/blob/master/up/unlog.php#L25">F:up/unlog.php</a>
 <hr>
-<img src="https://github.com/Fekoz/JRPG/blob/master/cont/img/img_title.png?raw=true" height="800">
+<img src="oneloves.ru/Tests/tqtest/test/img_title.png" height="900">
 #© 2015 Artem Fekoz
