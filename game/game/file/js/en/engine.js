@@ -1141,7 +1141,7 @@ engine = (function(){
 	function _session_new(){
 		$.ajax({
 			type: "POST",
-			url: 'http://YOU_SITE_DIR/site/up/createsession.php',// jump quey to https://github.com/Fekoz/JRPG/blob/master/up/createsession.php
+			url: 'http://YOU_SITE_DIR/site/up/createsession.php',// jump query to https://github.com/Fekoz/JRPG/blob/master/up/createsession.php
 			data: "sgstart="+char.id,
 			success: function(data){
 				console.log('Reload page '+data);
