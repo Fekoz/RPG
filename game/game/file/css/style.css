@@ -1,0 +1,389 @@
+@import url(http://fonts.googleapis.com/css?family=Offside);
+
+html,body {
+	overflow-y:hidden;
+	overflow-x:hidden;
+	overflow:hidden;
+	font-family: 'Raleway', sans-serif;
+}
+
+.map {  position: aboslute; margin: 0 auto;}
+.btnTileset { border: 1px solid black; width: 120px; height:30px; text-align:center; line-height:30px; margin-top: 1520px; background: #6eaa5c; color: white; position: absolute; top: 1520px;}
+.btnTileset:hover { cursor: pointer;} 
+
+.progress {
+	width: 50px;
+	height: 5px;
+	top:-35px;
+	left:-5px;
+}
+
+.progress-wrap {
+	background: Yellow1;
+	margin: 20px 0;
+	overflow: hidden;
+	position: relative;
+}
+.progress-wrap .progress-bar {
+	background: #ddd;
+	left: 0;
+	position: absolute;
+	top: 0;
+}
+
+.button-bigbro {
+	width:15em;
+}
+
+.button {
+  background-color: rgba(255,255,255,0.6);
+  border-radius: 0px;
+  border: none;
+  cursor: pointer;
+  display: inline-block;
+  font-family: inherit;
+  font-size: 0.75em;
+  line-height: 1;
+  margin:0;
+  padding: 1em 2.5em;
+  text-decoration: none;
+  text-transform: uppercase;
+  transition: 0.25s;
+  font-size: 1em; 
+  box-shadow: #000 0 0 13px;
+}
+
+.nump_pos_butt {
+	position:fixed;
+	bottom:10px;
+	left:100px;
+	z-index:99;
+}
+
+
+
+#dmglog {
+	font-weight:340;
+	font-family: 'Bowlby One SC', cursive;
+	font-size:69px;
+	margin-bottom:10px;
+	font-weight:light;
+	line-height:74px;
+   color:RED;
+  -webkit-animation-duration: 0.8s;
+	-webkit-transform-origin:50% 50%;
+	-webkit-animation-iteration-count: infinite;
+	-webkit-animation-timing-function: linear;
+  -webkit-animation-name: dmg;
+  text-shadow: -12px 7px #FFA500, 20px 20px 0 #25271E;
+	position:fixed;
+}
+
+#dmglogtop {
+  top: 150px;
+  opacity: 1;
+}
+
+@-webkit-keyframes dmg {
+	0% { -webkit-transform: translate(2px, 1px) rotate(0deg);}
+	10% { -webkit-transform: translate(-1px, -2px) rotate(-1deg); }
+	20% { -webkit-transform: translate(-3px, 0px) rotate(1deg); }
+	30% { -webkit-transform: translate(0px, 2px) rotate(0deg); }
+	40% { -webkit-transform: translate(5px, -1px) rotate(1deg); }
+	50% { -webkit-transform: translate(-1px, 2px) rotate(-1deg); }
+	60% { -webkit-transform: translate(-2px, 1px) rotate(0deg); }
+	70% { -webkit-transform: translate(6px, 2px) rotate(-1deg); }
+	80% { -webkit-transform: translate(-1px, -3px) rotate(1deg); }
+	90% { -webkit-transform: translate(2px, 1px) rotate(0deg); }
+	100% { -webkit-transform: translate(5px, -2px) rotate(-1deg); }
+}
+
+
+#tileset {width: 256px; height:12000px; background: url(http://fc03.deviantart.net/fs26/i/2008/149/d/7/rpg_maker_xp_the_best_tileset_by_davide_86.png); display:none; margin: 0 auto; position: absolute; top: 45px;}
+
+.char_pb {
+	position:fixed;
+	top:10px;
+	left:20px;
+	z-index:98;
+	width: 650px;
+	height: 250px;
+}
+
+.closedlog {
+	position:fixed;
+	right:20px;
+	bottom:280px;
+	width:auto;
+	height:auto;
+	z-index:120;
+}
+
+.log {
+	position:fixed;
+	bottom:10px;
+	right:20px;
+	z-index:98;
+	background-color: rgba(255,255,255,0.6);
+	border-radius: 0px;
+	width: 540px;
+	height: 260px;
+	box-shadow: #000 0 0 13px;
+}
+
+
+
+.log {
+	position:fixed;
+	bottom:10px;
+	right:20px;
+	z-index:98;
+	background-color: rgba(255,255,255,0.6);
+	border-radius: 0px;
+	width: 540px;
+	height: 260px;
+	box-shadow: #000 0 0 13px;
+}
+
+.log > div {
+  display: none;
+  padding: 10px;
+  height:200px;
+  font-size:15px;
+  overflow: auto;
+}
+
+.log > .active {
+  display: block;
+}
+	
+	
+.t_log ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  border-bottom: 3px solid #eee;
+}
+.t_log li {
+  display: inline-block;
+  padding: 0;
+  vertical-align: bottom;
+}
+.t_log li:nth-child(1) .active {
+  color: #c6a0d5;
+  border-bottom-color: #9b59b6;
+}
+.t_log li:nth-child(2) .active {
+  color: #8bc4ea;
+  border-bottom-color: #3498db;
+}
+.t_log li:nth-child(3) .active {
+  color: #f0b37e;
+  border-bottom-color: #e67e22;
+}
+.t_log li:nth-child(4) .active {
+  color: #df7c72;
+  border-bottom-color: #c0392b;
+}
+.t_log a {
+  display: inline-block;
+  color: black;
+  text-decoration: none;
+  padding: 7px;
+}
+.t_log a.active {
+  border-bottom: 3px solid transparent;
+  position: relative;
+  bottom: -3px;
+}
+
+.progbarr {
+	background-color: #383838;
+	border-radius: 0px;
+	width: 50px;
+}
+.progbarr > div {
+	background-color: #ffd903;
+	width: 0%;
+	height: 5px;
+	border-radius: 0px;
+}
+
+
+
+#tooltip{
+  display:none;
+  position:absolute;
+  width:auto;
+  height:auto;
+  margin:0;
+  padding:25px;
+  background-color: rgba(255,255,255,0.6);
+  border-radius:0px;
+  color:black;
+  font-weight:bold;
+  font-family:verdana;
+  font-size:14px;
+  line-height:18px;
+  box-shadow: #000 0 0 13px;
+  z-index:99;
+}
+
+
+#tooltip2{
+  display:none;
+  position:absolute;
+  width:auto;
+  height:auto;
+  margin:0;
+  padding:25px;
+  background-color: rgba(255,255,255,0.6);
+  border-radius:0px;
+  color:black;
+  line-height:0px;
+  box-shadow: #000 0 0 13px;
+  z-index:99;
+}
+
+
+
+
+
+
+@import url("//cdnjs.cloudflare.com/ajax/libs/font-awesome/4.0.3/css/font-awesome.min.css");
+.menu,
+.menu-bar {
+  position: fixed;
+  top: 0;
+  left: 0;
+  height: 100%;
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  background: rgba(255,255,255,0.6);
+  z-index: 10;
+  overflow: hidden;
+  box-shadow: #000 0 0 13px;
+}
+
+.menu li a {
+  display: block;
+  text-decoration: none;
+  height: 5em;
+  width: 5em;
+  line-height: 5em;
+  text-align: center;
+  color: #72739f;
+  position: relative;
+  border-bottom: 1px solid rgba(0, 0, 0, 0.05);
+  transition: background 0.1s ease-in-out;
+}
+
+.menu li a:before {
+  font-family: FontAwesome;
+  speak: none;
+  text-indent: 0em;
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  font-size: 1.4em;
+}
+
+.menu-bar li a:hover,
+.menu li a:hover,
+.menu li:first-child a {
+  background: red;
+  color: #fff;
+}
+
+.menu-bar {
+  overflow: hidden;
+  left: 5em;
+  z-index: 5;
+  width: 0;
+  height: 0;
+  transition: all 0.1s ease-in-out;
+}
+
+.menu-bar li a {
+  display: block;
+  height: 4em;
+  line-height: 4em;
+  text-align: center;
+  color: #72739f;
+  text-decoration: none;
+  position: relative;
+  font-family: verdana;
+  border-bottom: 1px solid rgba(0, 0, 0, 0.05);
+  transition: background 0.1s ease-in-out;
+}
+
+.menu-bar li:first-child a {
+  height: 5em;
+  background: red;
+  color: #fff;
+  line-height: 5
+}
+
+.para {
+  color: #033f72;
+  padding-left: 100px;
+  font-size: 3em;
+  margin-bottom: 20px;
+}
+
+.open {
+  width: 10em;
+  height: 100%;
+}
+
+@media all and (max-width: 500px) {
+  .container {
+    margin-top: 100px;
+  }
+  .menu {
+    height: 5em;
+    width: 100%;
+  }
+  .menu li {
+    display: inline-block;
+    float: left;
+  }
+  .menu-bar li a {
+    width: 100%;
+  }
+  .menu-bar {
+    width: 100%;
+    left: 0;
+    height: 0;
+  }
+  .open {
+    width: 100%;
+    height: auto;
+  }
+  .para {
+    padding-left: 5px;
+  }
+}
+
+@media screen and (max-height: 34em) {
+  .menu li, .menu-bar {
+    font-size: 70%;
+  }
+}
+
+@media screen and (max-height: 34em) and (max-width: 500px) {
+  .menu {
+    height: 3.5em;
+  }
+}
+
+
+
+#map {
+	position:absolute;
+	left: 0px;
+	top:-5px;
+}
