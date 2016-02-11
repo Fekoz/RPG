@@ -1,6 +1,6 @@
 # JRPG:REC
 Hi!<br>
-This light <span style="color:red">RPG</span> game made on <b>DHTML</b>.<br><br>
+This light <b>RPG</b> game made on <b>DHTML</b>.<br><br>
 <b>Video on the game:</b>
 <a href="http://myvi.ru/player/embed/html/oNqE8acnPyMCwx1dELfnw7aFnwse4Lbfc2a-Q0y5I17TVWJB5uQx79zMgNy3bqnSS0">Click to watch!</a><br><br>
 <b>Install:</b> database file link <a href="https://github.com/Fekoz/JRPG/tree/master/db">Click!</a><br>
