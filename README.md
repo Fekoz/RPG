@@ -14,13 +14,4 @@ Unlog link:<a href="https://github.com/Fekoz/JRPG/blob/master/up/unlog.php#L25">
 <hr>
 <img src="http://oneloves.ru/Tests/tqtest/test/img_title.png" height="600">
 <h3>KEY:af43_04_06</h3>
-<div class="boxed-group dangerzone container">
-    <nav class="reponav js-repo-nav js-sidenav-container-pjax js-octicon-loaders" role="navigation" data-pjax="#js-repo-pjax-container">
-    <a href="/Fekoz/JRPG" aria-label="Code" aria-selected="true" class="js-selected-navigation-item selected reponav-item" data-hotkey="g c" data-selected-links="repo_source repo_downloads repo_commits repo_releases repo_tags repo_branches /Fekoz/JRPG">
-    <svg aria-hidden="true" class="octicon octicon-code" height="16" role="img" version="1.1" viewBox="0 0 14 16" width="14"><path d="M9.5 3l-1.5 1.5 3.5 3.5L8 11.5l1.5 1.5 4.5-5L9.5 3zM4.5 3L0 8l4.5 5 1.5-1.5L2.5 8l3.5-3.5L4.5 3z"></path></svg>
-    Code
-</a>
-    <h3>Delete account</h3>
-    <div class="boxed-group-inner">dasd</div>
-</div>
 #© 2015 Artem Fekoz
