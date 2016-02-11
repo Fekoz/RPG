@@ -10,7 +10,7 @@ Import this file (sql or php_array or json) to you db.<br><br>
 Index to game:<a href="https://github.com/Fekoz/JRPG/blob/master/game/index.php#L7">F:game/index.php</a><br>
 Engine:<a href="https://github.com/Fekoz/JRPG/blob/master/game/game/file/js/en/engine.js#L1144">F:game/game/file/js/en/engine.js</a><br>
 Session link:<a href="https://github.com/Fekoz/JRPG/blob/master/up/createsession.php#L33">F:up/createsession.php</a><br>
-Unlog link:<a href="https://github.com/Fekoz/JRPG/blob/master/up/unlog.php#L25">F:up/unlog.php</a>
+Unlog link:<a href="https://github.com/Fekoz/JRPG/blob/master/up/unlog.php#L24">F:up/unlog.php</a>
 <hr>
 <img src="http://oneloves.ru/Tests/tqtest/test/img_title.png" height="450">
 <h3>KEY:af43_04_06</h3>
