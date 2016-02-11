@@ -1,7 +1,6 @@
 # JRPG:REC
-<h3>KEY:af43_04_06</h3>
 Hi!<br>
-This light RPG game made on DHTML.<br><br>
+This light <span style="color:red">RPG</span> game made on <b>DHTML</b>.<br><br>
 <b>Video on the game:</b>
 <a href="http://myvi.ru/player/embed/html/oNqE8acnPyMCwx1dELfnw7aFnwse4Lbfc2a-Q0y5I17TVWJB5uQx79zMgNy3bqnSS0">Click to watch!</a><br><br>
 <b>Install:</b> database file link <a href="https://github.com/Fekoz/JRPG/tree/master/db">Click!</a><br>
@@ -14,4 +13,5 @@ Session link:<a href="https://github.com/Fekoz/JRPG/blob/master/up/createsession
 Unlog link:<a href="https://github.com/Fekoz/JRPG/blob/master/up/unlog.php#L25">F:up/unlog.php</a>
 <hr>
 <img src="http://oneloves.ru/Tests/tqtest/test/img_title.png" height="600">
+<h3>KEY:af43_04_06</h3>
 #© 2015 Artem Fekoz
