@@ -19,3 +19,5 @@ jQuery(function($) {
 	quck_load_f();
 });//this file for more protection of objects from the console (It can be used in conjunction with onload)
 //этот файл для более детальной защиты объектов от консоли (можно использовать в связке с onload)
+//To use it, select it in the root directory of the game, for a place in the script en / engine.js
+//Что бы его использовать, укажите его в корне директории игры, за место скрипта en/engine.js
