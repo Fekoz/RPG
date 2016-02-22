@@ -1,6 +1,6 @@
 <?php
-	//rec.fjo-team.pw | test.fjo-team.pw | other fjo-team.pw желательно по поддоменам разбить. Но проблема с сессиями тогда!
-	//(у поддоменов разные сессии), запилил через гет, а там вывожу присвоенный для аккаунта код и дропаю ._,
+	//rec.fjo-team.pw | test.fjo-team.pw | other fjo-team.pw u domain subdomain
+	//frame block > resize._,
 	session_start();
 	header("Content-Type: text/html; charset=utf8"); 
 	include_once "../rec/option/create_cfg.php";
@@ -74,9 +74,9 @@
 		
 		<script>
 			window.onload = function() {
-				var wh=document.body.clientWidth + 15; // ширина  
-				var hh=document.body.clientHeight + 5; // высота
-						//alert ("Разрешение окна клиента: "+wh+"x"+hh); // лучше конечно фреймом, если он прогрузился то ему напплевать, даже если в нем екзит ._,
+				var wh=document.body.clientWidth + 15; // ГёГЁГ°ГЁГ­Г   
+				var hh=document.body.clientHeight + 5; // ГўГ»Г±Г®ГІГ 
+						//alert ("ГђГ Г§Г°ГҐГёГҐГ­ГЁГҐ Г®ГЄГ­Г  ГЄГ«ГЁГҐГ­ГІГ : "+wh+"x"+hh); // Г«ГіГ·ГёГҐ ГЄГ®Г­ГҐГ·Г­Г® ГґГ°ГҐГ©Г¬Г®Г¬, ГҐГ±Г«ГЁ Г®Г­ ГЇГ°Г®ГЈГ°ГіГ§ГЁГ«Г±Гї ГІГ® ГҐГ¬Гі Г­Г ГЇГЇГ«ГҐГўГ ГІГј, Г¤Г Г¦ГҐ ГҐГ±Г«ГЁ Гў Г­ГҐГ¬ ГҐГЄГ§ГЁГІ ._,
 					if(wh >= 2000 && hh >= 1120) {
 						$('#qwers').append('<iframe width="'+1890+'" height="'+965+'" name="ff" src="game/index.php" id="map" frameborder="0"></iframe> </div>');
 					}else $('#qwers').append('<iframe width="'+wh+'" height="'+hh+'" name="ff" src="game/index.php" id="map" frameborder="0"></iframe> </div>');
