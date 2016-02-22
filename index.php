@@ -64,7 +64,6 @@
 										<span class="feedback_info">&middot;</span>
 									</form>
 								</div>
-							<!---iframe width="420" height="240" src="https://www.youtube.com/embed/74q5yvpZAos" frameborder="0" allowfullscreen></iframe------->
 						</div>
 					</div>
 				</div>
