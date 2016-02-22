@@ -13,8 +13,8 @@
 		</head>
 		<body>
 			<div class="map">
-				<div id="mark1" style="position: absolute; width: 2400px; z-index:1;"></div><!--Неосновной фон-->
-				<div id="mark2" style="position: absolute; width: 2400px; z-index:2;"><!--Деревья , листья,герой,мобы,и прочее , основной слой-->
+				<div id="mark1" style="position: absolute; width: 2400px; z-index:1;"></div>
+				<div id="mark2" style="position: absolute; width: 2400px; z-index:2;">
 				<div id="dmglog" style="display:none;"></div>
 					<div class="char">
 						<div style="position:absolute;top:-37px;text-align: center;color:red;" class="from_name"></div>
