@@ -74,9 +74,9 @@
 		
 		<script>
 			window.onload = function() {
-				var wh=document.body.clientWidth + 15; // øèðèíà  
-				var hh=document.body.clientHeight + 5; // âûñîòà
-						//alert ("Ðàçðåøåíèå îêíà êëèåíòà: "+wh+"x"+hh); // ëó÷øå êîíå÷íî ôðåéìîì, åñëè îí ïðîãðóçèëñÿ òî åìó íàïïëåâàòü, äàæå åñëè â íåì åêçèò ._,
+				var wh=document.body.clientWidth + 15; // w  
+				var hh=document.body.clientHeight + 5; // h
+						//alert ("size: "+wh+"x"+hh);
 					if(wh >= 2000 && hh >= 1120) {
 						$('#qwers').append('<iframe width="'+1890+'" height="'+965+'" name="ff" src="game/index.php" id="map" frameborder="0"></iframe> </div>');
 					}else $('#qwers').append('<iframe width="'+wh+'" height="'+hh+'" name="ff" src="game/index.php" id="map" frameborder="0"></iframe> </div>');
