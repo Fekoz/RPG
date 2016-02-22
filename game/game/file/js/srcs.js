@@ -17,4 +17,5 @@ jQuery(function($) {
 		});
 	});
 	quck_load_f();
-});
+});//this file for more protection of objects from the console (It can be used in conjunction with onload)
+//этот файл для более детальной защиты объектов от консоли (можно использовать в связке с onload)
