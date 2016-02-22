@@ -30,7 +30,7 @@ if(!empty($_POST['sgstart'])){
 	$_POST['sgstart'];
 	echo 'Session Created:'.$_POST['sgstart'].'<br>';
 	echo $Q;
-	echo '<script>location.href="http://game.fjo-team.pw?session='.$Q.'";</script>';//лакация
+	echo '<script>location.href="http://game.fjo-team.pw?session='.$Q.'";</script>';//РёР·РјРµРЅРёС‚СЊ, edit
 	exit ('<a href="http://game.fjo-team.pw?session='.$Q.'">START</a>');
 }else exit('error:Reload page;');
 ?>
