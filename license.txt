@@ -1,7 +1,7 @@
 <!--
 Copyright (c) 2015 by Artem Fekoz (http://fjo-team.pw | admin@fjo-team.pw | lolpikds@hotmail.com)
-This version have optional license (key:af43_04_06). 
-For any questions please contact at the above email. I will be glad to answer any question related to the project.
+This version has a MIT License(Open Source) (key:af43_04_06). 
+For any questions, please contact directly to the above email. I will be glad to answer any questions related to the project.
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
 The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
