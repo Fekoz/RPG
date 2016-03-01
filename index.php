@@ -79,7 +79,7 @@
 							<span style="color:red">REC:</span>
 							Game
 						</h1>
-						<p>J-RPG Rec: has finally been released! <br>Once in this country, you will find hundreds items scattered around the world.</p>
+						<p>J-RPG Rec: has finally been released! <br>Hundreds of items are awaiting to be found within this expansive game world!</p>
 						<p>Views for <span class="checkonday" style="color:red">Loading views</span> Times</p>
 						<a id="click3" class="btn">ABOUT</a>
 					</div>
@@ -92,10 +92,10 @@
 						<div class="text-wrap">
 							<h2><span style="color:red">About</span> this game</h2>
 							<span>
-								We already: <span class="checkallusers" style="color:red">Loading data</span> users<br>
+								We already have: <span class="checkallusers" style="color:red">Loading data</span> current users!<br>
 							</span>
 							<span>
-								J-RPG Rec:has finally been released! Once in this country, you will find hundreds items scattered around the world. By seducing you and your companions, they become even more powerful allies! Prove yourself worth of their affection and become the strongest in all worlds.
+								J-RPG Rec:has finally been released! Hundreds of items are awaiting to be found within this expansive game world! Gain power together as you cooperatively join forces with other powerful allies! Prove yourself worthy of their affection and become the strongest in all worlds!
 							</span>
 							<a id="click4" class="btn">START</a>
 							<br>
@@ -114,7 +114,7 @@
 						<h1>FJOTeam&nbsp;&copy;&nbsp;2015</h1>
 						<p>
 							Rec:the Game <br>
-							We already:<span class="checkallusers" style="font-size:1.6em;color:red">Loading data</span> users
+							We already have :<span class="checkallusers" style="font-size:1.6em;color:red">Loading data</span> current users!
 						</p>
 						<p>
 							<strong>designing & create:&nbsp;Fekoz</strong> 
