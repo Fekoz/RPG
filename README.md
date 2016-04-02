@@ -13,8 +13,8 @@ Session link:<a href="https://github.com/Fekoz/JRPG/blob/fekoz/up/createsession.
 Unlog link:<a href="https://github.com/Fekoz/JRPG/blob/fekoz/up/unlog.php#L24">F:up/unlog.php</a>
 <hr>
 <a href="https://github.com/Fekoz/JRPG/">
- <img src="http://oneloves.ru/Tests/1.png" height="450">
- <img src="http://oneloves.ru/Tests/2.png" height="450">
+ <img src="https://raw.githubusercontent.com/Fekoz/RPG/fekoz/cont/img/from_game_1.png" height="450">
+ <img src="https://raw.githubusercontent.com/Fekoz/RPG/fekoz/cont/img/from_game_2.png" height="450">
 </a>
 <h3>KEY:af43_04_06</h3>
 #© 2015 Artem Fekoz
